@@ -18,5 +18,7 @@ public class Question2 {
         robot.mouseMove(800,471);
         robot.mouseRelease(InputEvent.BUTTON1_DOWN_MASK);
 
+//     Question 3- yes, mvn test -Dtest=TestCircle#xyz test.
+//     TestCircle is the test class name and xyz is the test method.
     }
 }
